@@ -1,2 +1,2 @@
 # SK-Projects
-THis File cannot be opened at the moment!
+This File cannot be opened at the moment!
